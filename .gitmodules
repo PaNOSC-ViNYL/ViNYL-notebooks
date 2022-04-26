@@ -1,3 +1,6 @@
 [submodule "Oasys-PaNOSC-Workspaces"]
 	path = Oasys-PaNOSC-Workspaces
 	url = https://github.com/PaNOSC-ViNYL/Oasys-PaNOSC-Workspaces.git
+[submodule "McStasScript-notebooks"]
+	path = McStasScript-notebooks
+	url = https://github.com/PaNOSC-ViNYL/McStasScript-notebooks.git
