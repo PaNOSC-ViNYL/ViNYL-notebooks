@@ -7,3 +7,6 @@
 [submodule "SimEx-notebooks"]
 	path = SimEx-notebooks
 	url = https://github.com/PaNOSC-ViNYL/SimEx-notebooks.git
+[submodule "wavefrontDB"]
+	path = wavefrontDB
+	url = https://github.com/PaNOSC-ViNYL/wavefrontDB.git
