@@ -4,3 +4,6 @@
 [submodule "McStasScript-notebooks"]
 	path = McStasScript-notebooks
 	url = https://github.com/PaNOSC-ViNYL/McStasScript-notebooks.git
+[submodule "SimEx-notebooks"]
+	path = SimEx-notebooks
+	url = https://github.com/PaNOSC-ViNYL/SimEx-notebooks.git
