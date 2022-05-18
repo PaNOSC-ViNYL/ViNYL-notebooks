@@ -1,4 +1,6 @@
 # ViNYL-notebooks
+[![DOI](https://zenodo.org/badge/236486897.svg)](https://zenodo.org/badge/latestdoi/236486897)
+
 This is the top level repository for example jupyter notebooks and Oasys workspaces for the Virtual Neutron and x-raY Laboratory (ViNYL). It is mainly meant as
 an entry point to the individual notebook and workspace repositories. Extended documentation is provided separately for each repository linked here.
 
